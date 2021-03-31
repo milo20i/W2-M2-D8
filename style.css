@@ -1,0 +1,92 @@
+* {
+  font-family: "Open Sans", sans-serif;
+}
+#navbar {
+  padding-left: 6vw;
+}
+h2 {
+  font-size: 50px !important;
+  font-weight: 300 !important;
+}
+h6 {
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  font-weight: 100;
+  margin-bottom: 18px !important;
+}
+#colmn-one {
+  height: 400px;
+  background-color: #6bb56b;
+  border-radius: 50px 0px 0px 50px;
+  border: 3px solid black;
+  display: grid;
+  justify-content: center;
+  align-content: center;
+}
+#id {
+  background-color: #299bff;
+  border-top: 3px solid black;
+  border-bottom: 3px solid black;
+  display: grid;
+  justify-content: center;
+  align-content: end;
+}
+#colmn-bfrlast {
+  height: 133px;
+  background-color: #fff7bd !important;
+  border-radius: 0px 30px 0px 0px;
+  border-top: 3px solid black;
+  border-right: 3px solid black;
+  display: grid;
+  justify-content: center;
+  align-content: center;
+}
+#colmn-last {
+  height: 133px;
+  border-radius: 0px 0px 30px 0px;
+  border-bottom: 3px solid black;
+  border-right: 3px solid black;
+  display: grid;
+  justify-content: center;
+  align-content: center;
+}
+.claassa {
+  text-align: end;
+}
+#id2 {
+  height: 134px;
+  background-color: #ffed69 !important;
+  display: grid;
+  border-right: 3px solid black;
+  justify-content: center;
+  align-content: center;
+}
+#main-content {
+  padding-left: 6vw;
+  padding-right: 6vw;
+}
+#cont2 {
+  display: flex;
+  justify-content: center;
+}
+#cont2 .card {
+  margin-left: 20px;
+  width: 500px;
+  text-align: center;
+  margin-top: 30px;
+}
+
+#cont2 button {
+  width: 249px;
+}
+#card-header {
+  font-size: 18px;
+  font-weight: bold;
+}
+.text-fix-inline {
+  display: flex;
+  align-items: center;
+}
+li a {
+  text-decoration: none;
+}
